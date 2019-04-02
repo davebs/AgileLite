@@ -1,4 +1,4 @@
-# Agile Lite -- Agile without all the burnout
+# Agile Lite: Agile without all the burnout
 
 "Agile software development" is a great idea that's been overcomplicated by the publishing and consulting industries. Agile Lite is an attempt to strip things down to their essence. You do not need a book or a workshop to explain Agile Lite. You just need a text file with several paragraphs. This is that text file.
 
