@@ -1,4 +1,4 @@
-# Agile Lite -- for managers
+# Agile Lite for managers
 
 Has working with software developers been a challenge at your company? Have you seen projects that consistently miss deadlines? Have you worked with developers that start out great and then slowly decline and then disappear? You may simply be dealing with a talented developer that experienced burnout on your project. 
 
@@ -23,8 +23,6 @@ I'm proposing a solution. It's a form of agile that's explicitly designed to hel
 That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are expicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
 
 Let's stop overheating our engines. There's plenty of work to do out there. A pit without bottom, in fact. But life is too short to spend all of it working, stressed, and ultimately burned out.
-
-If you would like to see more workplaces implement a system such as this, please favorite it on github to increase visibility.
 
 ---
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
