@@ -10,6 +10,8 @@ The basic setup is this:
 
 * The `sprint` takes place during the remaining 3 weeks of the month. During this period, engineers will work on the tasks that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
 
+* Once a `sprint` has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
+
 * Issues that are not completed during the sprint are reviewed at the next sprint planning session and it's decided whether to move the Issue forward into the next sprint, put it back in the Backlog, or reassign it to a different developer.
 
 * An issue is either in the `backlog` or in the `current sprint`.

@@ -14,6 +14,8 @@ I'm proposing a solution. It's a form of agile that's explicitly designed to hel
 
 * A sprint contains Issues and engineers solve Issues, logging pertinent questions and updates to the Issue Tracker.
 
+* Once a sprint has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
+
 * An Issue is any unit of work that should take 4-8 hours of engineering effort. An Issue is either in the current sprint or in the backlog.
 
 * Any Issues in the current sprint that are not completed by the end of the sprint are reviewed during the 1 week of sprint planning.
