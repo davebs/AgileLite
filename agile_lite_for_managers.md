@@ -22,7 +22,7 @@ I'm proposing a solution. It's a form of agile that's explicitly designed to hel
 
 * There is no working overtime. There can be no death marches. Engineers are put on a monthly cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
 
-That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are expicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
+That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
 
 Let's stop overheating our engines. There's plenty of work to do out there. A pit without bottom, in fact. But life is too short to spend all of it working, stressed, and ultimately burned out.
 
