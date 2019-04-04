@@ -1,10 +1,5 @@
 # Agile Lite: Agile without all the burnout
 
----
-If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
-
----
-
 "Agile software development" is a great idea that's been overcomplicated by the publishing and consulting industries. Agile Lite is an attempt to simplify the situation. You do not need a book or a workshop to explain Agile Lite. You just need a text file with several paragraphs. This is that text file.
 
 Agile Lite is pretty simple. It can be applied to any project with people working on it, assuming that the work can be broken into smaller component tasks that we'll just call Issues. Like other agile methodologies, it utilizes short development cycles called Sprints. Somewhat uniquely, Agile Lite explicitly acknowledges the prevalence of burnout in the software development industry and attempts to mitigate it directly via a 3 weeks on/1 week off development cycle.
@@ -36,5 +31,6 @@ To learn more about Agile Lite, I encourage you to read:
 [Agile Lite for managers](agile_lite_for_managers.md)
 
 
-By: Dave Sullivan 2019 dave.brian.sullivan@gmail.com
-
+---
+If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.  
+Dave Sullivan 2019 dave.brian.sullivan@gmail.com
