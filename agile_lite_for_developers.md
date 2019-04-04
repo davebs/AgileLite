@@ -1,31 +1,31 @@
-# Agile Lite for developers
+# Agile Lite para desarrolladores
 
-If you've been working in the software industry for more than a few years, you've quite possibly experienced burnout. There are many reasons for burnout, but it can most simply be described as the result of working too much, under too much stress, for too long. 
+Si ha estado trabajando en la industria del software durante más de unos pocos años, posiblemente haya experimentado agotamiento. Hay muchas razones para el agotamiento, pero puede describirse simplemente como el resultado de trabajar demasiado, bajo mucho estrés, durante demasiado tiempo. 
 
-It starts with a project. That project has a detailed specification and a deadline. When the specification changes, the deadline does not. Eventually the deadline comes and goes and the spec has turned into something different from where it started. Of course, this is seen as your fault, and you are asked to stay late or to commit to "stretch goals". Eventually you're coming in every weekend and no matter how hard you work, your manager is never happy and the project is perpetually "behind schedule". 
+Comienza con un proyecto. Ese proyecto tiene una especificación detallada y una fecha límite. Cuando la especificación cambia, la fecha límite no lo hace. Finalmente, la fecha límite llega y se va y la especificación se ha convertido en algo diferente de donde comenzó. Por supuesto, esto se considera su culpa y se le pide que se quede tarde o que se comprometa a "cumplir los objetivos". Eventualmente, llegará todos los fines de semana y no importa cuánto trabaje, su gerente nunca está contento y el proyecto está perpetuamente "atrasado". 
 
-Wanting time off or vacation makes you seem like a slacker. It makes you seem like you're the one holding up your team. Perhaps you work in an open office environment; everyone knows when you get there, everyone knows when you leave, and everyone signs an unspoken contract to not be the person that's not working the hardest. So people get good at looking busy, and whenever someone asks you how you're doing, you just reply, "Busy! I'm SO busy!"
+Querer tiempo libre o vacaciones te hace parecer un vago. Te hace parecer como si fueras quien sostiene a tu equipo. Quizás trabajas en un entorno de oficina abierta; todos saben cuándo llegas allí, todos saben cuándo te vas y todos firman un contrato tácito para no ser la persona que no está trabajando más duro. Así que la gente se ve bien ocupada, y cada vez que alguien te pregunta cómo te va, simplemente respondes: "¡Ocupado! ¡Estoy tan ocupado!"
 
-But eventually something gives. Maybe you change jobs, but it's more of the same at other companies in the software industry. Maybe you stick through it until there's nothing left and then the company lets you go because you're just "not a culture fit". Maybe you quit and take a job selling cars because programming is just too damned frustrating. As they say, if you want to kill the joy in a hobby, try doing it for a living.
+Pero al final algo da. Quizás cambie de trabajo, pero es más de lo mismo en otras compañías en la industria del software. Tal vez lo mantengas hasta que no quede nada y luego la compañía te deje ir porque simplemente "no encajas en cultura". Tal vez renuncies y tomes un trabajo vendiendo autos porque la programación es demasiado frustrante. Como dicen, si quieres matar la alegría en un pasatiempo, trata de hacerlo para vivir.
 
-I'm proposing a solution. It's a form of agile that's explicitly designed to help avoid burnout. I call it Agile Lite.
+Estoy proponiendo una solución. Es una forma de ágil que está diseñada explícitamente para ayudar a evitar el agotamiento. Yo lo llamo Agile Lite.
 
-* The most basic rule is this: Every month includes a 3 week sprint and 1 week "off" where sprint planning is done. 3 weeks on/1 week off. 
+* La regla más básica es esta: cada mes incluye un sprint de 3 semanas y una semana "off" donde se realiza la planificación del sprint. 3 semanas de desarrollo / 1 semana de descanso.
 
-* A sprint contains Issues and engineers solve Issues, logging pertinent questions and updates to the Issue Tracker.
+* Un sprint contiene Issues y los ingenieros resuelven Issues, registran las preguntas pertinentes y actualizan el Rrastreador de Problemas(Issue Tracker).
 
-* Once a sprint has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
+* Una vez que el sprint ha comenzado, los Issues no se pueden agregar al sprint, pero se pueden eliminar. Esto reduce el cambio de contexto y eso es algo bueno.
 
-* An Issue is any unit of work that should take 4-8 hours of engineering effort. An Issue is either in the current sprint or in the backlog.
+* Un Issue es cualquier unidad de trabajo que deba tomar entre 4 y 8 horas de esfuerzo de ingeniería. Un Issue está en el sprint actual o en el backlog.
 
-* Any Issues in the current sprint that are not completed by the end of the sprint are reviewed during the 1 week of sprint planning.
+* Cualquier Issues en el sprint actual que no se haya completado al final del sprint se revisará durante la semana de planificación del sprint.
 
-* There is no working overtime. There can be no death marches. Engineers are put on a monthly cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
+* No hay horas extras de trabajo. No puede haber marchas de la muerte. A los ingenieros se les asigna una cadencia mensual de trabajo y se les da tiempo suficiente para recargar sus cerebros. La sobrecarga de gestión es mínima.
 
-That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
+Eso es prácticamente todo el sistema. Puede ser modificado para adaptarse a sus propósitos. Pero si hay un diferenciador de Agile Lite que me gustaría señalar, es que estamos diciendo explícitamente: "Oye, los equipos ágiles se están agotando tanto como otras metodologías de desarrollo, tal vez necesitamos construir reglas explícitas para evitar el sobrecalentamiento. El motor que es el equipo de ingeniería ".
 
-Let's stop overheating our engines. There's plenty of work to do out there. A pit without bottom, in fact. But life is too short to spend it all working, stressed, and ultimately burned out.
+Dejemos de sobrecalentar nuestros motores. Hay mucho trabajo que hacer por ahí. Un pozo sin fondo, de hecho. Pero la vida es demasiado corta para gastarla trabajando, estresada y, finalmente, agotada.
 
 ---
-If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
+Si desea ver más lugares de trabajo implementando un sistema como este, dele una estrella a este repositorio en github y compártalos en las redes sociales para aumentar la visibilidad.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
