@@ -10,7 +10,7 @@ It is like running a car engine at high RPMs for a very long time without adding
 
 I'm proposing a solution. It's a form of agile that's explicitly designed to help avoid burnout. I call it Agile Lite.
 
-* The most basic rule is this: Every month includes a 3 week sprint and 1 week "off" where sprint planning is done. 3 weeks on/1 week off. 
+* The most basic rule is this: Every cycle includes a 3 week sprint and 1 week "off" where sprint planning is done. 3 weeks on/1 week off. 
 
 * A sprint contains Issues and engineers solve Issues, logging pertinent questions and updates to the Issue Tracker.
 
@@ -20,7 +20,7 @@ I'm proposing a solution. It's a form of agile that's explicitly designed to hel
 
 * Any Issues in the current sprint that are not completed by the end of the sprint are reviewed during the 1 week of sprint planning.
 
-* There is no working overtime. There can be no death marches. Engineers are put on a monthly cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
+* There is no working overtime. There can be no death marches. Engineers are put on a regular cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
 
 That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
 

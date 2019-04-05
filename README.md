@@ -6,9 +6,9 @@ Agile Lite is pretty simple. It can be applied to any project with people workin
 
 The basic setup is this:
 
-* The first week of each month is spent with project leads and stakeholders defining the upcoming `sprint`. Despite a week being allocated, a sprint planning session should take no more than 2 hours and probably about 45 minutes if done correctly. It is an intentionally light week and many people may simply take the time off to paint or surf or whatever.
+* The first week of each cycle is spent with project leads and stakeholders defining the upcoming `sprint`. Despite a week being allocated, a sprint planning session should take no more than 2 hours and probably about 45 minutes if done correctly. It is an intentionally light week and many people may simply take the time off to paint or surf or whatever.
 
-* The `sprint` takes place during the remaining 3 weeks of the month. During this period, engineers will work on the Issues that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
+* The `sprint` takes place during the remaining 3 weeks of the cycle. During this period, engineers will work on the Issues that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
 
 * Once a `sprint` has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
 

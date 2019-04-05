@@ -28,11 +28,15 @@ Sure! I'm going to stick with "sprint" myself.
 
 > Can we do a kanban style rolling iteration where start dates and end dates vary and depend on circumstances?
 
-I really value the concept of the work month having a defined start and stop and that month being defined by a single block of tasks. Rolling iterations not synced to months would mess that up.
+I really value the concept of the work cycle having a defined start date and stop date and being defined by a single block of tasks. Rolling iterations not synced to a specific cycle would mess that up.
 
 > Why 3 week sprints?
 
-Because development work plus recovery time then fits into 12 slots per year. When the month is over, a new month begins. The "week off" allows a reset, and a new sprint begins. It's about achieving a cadence and having clear and consistent intervals.
+Because development work plus recovery time then fits into 13 slots per year. When the cycle is over, a new cycle begins. The "week off" allows a reset before the new sprint begins. It's about achieving a cadence and having clear and consistent intervals.
+
+> Does this mean sprint start dates and end dates will often fall in the middle of the calendar month?
+
+Yes.
 
 > Are developers included in sprint planning?
 
