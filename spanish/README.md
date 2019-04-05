@@ -26,9 +26,9 @@ Agile Lite es una forma mejor y más sostenible de desarrollar software. Empoder
 
 Para obtener más información sobre Agile Lite, te animo a leer:
 
-[Agile Lite para desarrolladores](spanish/agile_lite_for_developers.md)
+[Agile Lite para desarrolladores](agile_lite_for_developers.md)
 
-[Agile Lite para gerentes](spanish/agile_lite_for_managers.md)
+[Agile Lite para gerentes](agile_lite_for_managers.md)
 
 
 ---
