@@ -30,6 +30,8 @@ To learn more about Agile Lite, I encourage you to read:
 
 [Agile Lite for managers](agile_lite_for_managers.md)
 
+[Frequently Asked Questions](faq.md)
+
 
 ---
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.  
