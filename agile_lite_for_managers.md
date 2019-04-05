@@ -1,31 +1,31 @@
-# Agile Lite para gerentes
+# Agile Lite for managers
 
-¿Trabajar con desarrolladores de software ha sido un desafío para su empresa? ¿Has visto proyectos que constantemente faltan plazos? ¿Ha trabajado con desarrolladores que comienzan bien y luego declinan lentamente y luego desaparecen? Puede que simplemente esté tratando con un desarrollador talentoso que haya experimentado agotamiento en su proyecto. 
+Has working with software developers been a challenge at your company? Have you seen projects that consistently miss deadlines? Have you worked with developers that start out great and then slowly decline and then disappear? You may simply be dealing with a talented developer that experienced burnout on your project. 
 
-El agotamiento es extremadamente común en la industria del software y es una razón clave por la que muchos proyectos de software fallan. El agotamiento se puede describir mejor como síntomas del trastorno por estrés postraumático que están conectados a un proyecto u organización en particular. Por ejemplo, su cerebro podría apagarse y podría sentirse extremadamente ansioso por la mera mención de un determinado proyecto. Esto es agotamiento. Un desarrollador en tal estado probablemente no podrá continuar trabajando en ese proyecto y también puede experimentar una disminución de la productividad en sus próximos proyectos. El agotamiento puede paralizar las carreras.
+Burnout is extremely common in the software industry and is a key reason many software projects fail. Burnout can maybe best be described as symptoms of Post Traumatic Stress Disorder that are connected to a given project or organization. For instance, your brain might shut off and you might become extremely anxious at the mere mention of a certain project. This is burnout. A developer in such a state will likely be unable to continue working on that project and may experience diminished productivity on their next several projects as well. Burnout can cripple careers.
 
-Hay muchas razones para el agotamiento, pero la razón más básica es que es el resultado de trabajar demasiado, bajo mucho estrés, durante demasiado tiempo.
+There are many reasons for burnout, but the most basic reason is that it is the result of working too much, under too much stress, for too long.
 
-Es como hacer funcionar un motor de automóvil a altas RPM durante mucho tiempo sin agregar aceite o gasolina. Eventualmente, el motor se romperá y será difícil volver a armarlo.
+It is like running a car engine at high RPMs for a very long time without adding oil or gas. Eventually that engine will break and it will be hard to put it back together.
 
-Estoy proponiendo una solución. Es una forma de ágil que está diseñada explícitamente para ayudar a evitar el agotamiento. Yo lo llamo Agile Lite.
+I'm proposing a solution. It's a form of agile that's explicitly designed to help avoid burnout. I call it Agile Lite.
 
-* La regla más básica es esta: cada mes incluye un sprint de 3 semanas y una semana "off" donde se realiza la planificación del sprint. 3 semanas de desarrollo / 1 semana de descanso. 
+* The most basic rule is this: Every month includes a 3 week sprint and 1 week "off" where sprint planning is done. 3 weeks on/1 week off. 
 
-* Un sprint contiene Issues y los ingenieros resuelven Issues, registran las preguntas pertinentes y actualizan el Rrastreador de Problemas(Issue Tracker).
+* A sprint contains Issues and engineers solve Issues, logging pertinent questions and updates to the Issue Tracker.
 
-* Un Issue es cualquier unidad de trabajo que deba tomar entre 4 y 8 horas de esfuerzo de ingeniería. Un Issue está en el sprint actual o en el backlog.
+* An issue is any unit of work that should take 4-8 hours of engineering effort. An issue is either in the current sprint or in the backlog.
 
-* Una vez que el sprint ha comenzado, los Issues no se pueden agregar al sprint, pero se pueden eliminar. Esto reduce el cambio de contexto y eso es algo bueno.
+* Once a sprint has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
 
-* Cualquier Issues en el sprint actual que no se haya completado al final del sprint se revisará durante la semana de planificación del sprint.
+* Any Issues in the current sprint that are not completed by the end of the sprint are reviewed during the 1 week of sprint planning.
 
-* No hay horas extras de trabajo. No puede haber marchas de la muerte. A los ingenieros se les asigna una cadencia mensual de trabajo y se les da tiempo suficiente para recargar sus cerebros. La sobrecarga de gestión es mínima.
+* There is no working overtime. There can be no death marches. Engineers are put on a monthly cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
 
-Eso es prácticamente todo el sistema. Puede ser modificado para adaptarse a sus propósitos. Pero si hay un diferenciador de Agile Lite que me gustaría señalar, es que estamos diciendo explícitamente: "Oye, los equipos ágiles se están agotando tanto como otras metodologías de desarrollo, tal vez necesitamos construir reglas explícitas para evitar el sobrecalentamiento. El motor que es el equipo de ingeniería". 
+That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
 
-Dejemos de sobrecalentar nuestros motores. Hay mucho trabajo que hacer por ahí. Un pozo sin fondo, de hecho. Pero la vida es demasiado corta para gastarla trabajando, estresada y, finalmente, agotada.
+Let's stop overheating our engines. There's plenty of work to do out there. A pit without bottom, in fact. But life is too short to spend all of it working, stressed, and ultimately burned out.
 
 ---
-Si desea ver más lugares de trabajo implementando un sistema como este, dele una estrella a este repositorio en github y compártalos en las redes sociales para aumentar la visibilidad.
+If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
