@@ -1,36 +1,36 @@
-# Agile Lite: ágil, sin todo el agotamiento
+# Agile Lite: Agile without all the burnout
 
-El "desarrollo de software ágil" es una gran idea que ha sido complicada por las industrias de publicación y consultoría. Agile Lite es un intento de simplificar la situación. No necesita un libro o un taller para explicar Agile Lite. Solo necesitas un archivo de texto con varios párrafos. Este es ese archivo de texto.
+"Agile software development" is a great idea that's been overcomplicated by the publishing and consulting industries. Agile Lite is an attempt to simplify the situation. You do not need a book or a workshop to explain Agile Lite. You just need a text file with several paragraphs. This is that text file.
 
-Agile Lite es bastante simple. Se puede aplicar a cualquier proyecto con personas que trabajan en él, asumiendo que el trabajo se puede dividir en tareas de componentes más pequeños que solo llamaremos Issues. Al igual que otras metodologías ágiles, utiliza ciclos de desarrollo cortos llamados Sprints. De manera un tanto única, Agile Lite reconoce explícitamente la prevalencia de agotamiento en la industria de desarrollo de software e intenta mitigarla directamente a través de un ciclo de desarrollo de 3 semanas / 1 semana fuera.
+Agile Lite is pretty simple. It can be applied to any project with people working on it, assuming that the work can be broken into smaller component tasks that we'll just call Issues. Like other agile methodologies, it utilizes short development cycles called Sprints. Somewhat uniquely, Agile Lite explicitly acknowledges the prevalence of burnout in the software development industry and attempts to mitigate it directly via a 3 weeks on/1 week off development cycle.
 
-La configuración básica es esta:
+The basic setup is this:
 
-* La primera semana de cada mes se pasa con los líderes del proyecto y las partes interesadas que definen el próximo `sprint`. A pesar de que se asigna una semana, una sesión de planificación de sprint no debe tomar más de 2 horas y probablemente unos 45 minutos si se realiza correctamente. Es una semana intencionalmente ligera y muchas personas simplemente pueden tomarse el tiempo para pintar o surfear o lo que sea.
+* The first week of each month is spent with project leads and stakeholders defining the upcoming `sprint`. Despite a week being allocated, a sprint planning session should take no more than 2 hours and probably about 45 minutes if done correctly. It is an intentionally light week and many people may simply take the time off to paint or surf or whatever.
 
-* El `sprint` tiene lugar durante las 3 semanas restantes del mes. Durante este período, los ingenieros trabajarán en los Issues que se les asignaron durante las sesiones de planificación de sprint. Debido a que el equipo puede estar totalmente remoto y distribuido en zonas horarias, las reuniones "en vivo" ocurren con poca frecuencia y la mayoría de las comunicaciones se realizan a través del `issue tracking system` (que es más rápido para trabajar que el correo electrónico). Un tablero kanban compartido como Trello es un sistema de seguimiento de problemas suficiente, pero probablemente no lo sea una hoja de cálculo. Se desalientan las reuniones diarias; se puede obtener un impulso básico en el proyecto revisando las actualizaciones del sistema de seguimiento de problemas.
+* The `sprint` takes place during the remaining 3 weeks of the month. During this period, engineers will work on the Issues that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
 
-* Una vez que ha comenzado un `sprint`, los Issues no se pueden agregar al sprint, pero se pueden eliminar. Esto reduce el cambio de contexto y eso es algo bueno.
+* Once a `sprint` has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
 
-* Los Issues que no se completaron durante el sprint se revisan en la próxima sesión de planificación del sprint y se decide si se avanza el Issue al próximo sprint, se vuelve a poner en el Backlog o se vuelve a asignar a un desarrollador diferente.
+* Issues that are not completed during the sprint are reviewed at the next sprint planning session and it's decided whether to move the Issue forward into the next sprint, put it back in the Backlog, or reassign it to a different developer.
 
-* Un problema está en el `backlog` o en el `sprint actual`.
+* An issue is either in the `backlog` or in the `current sprint`.
 
-* Como se mencionó, se recomienda a los desarrolladores que tomen la semana de planificación para permitir que su cerebro se recupere del sprint anterior. No hay marchas de la muerte. Los desarrolladores no trabajan los fines de semana. Todo esto ayuda a evitar el agotamiento. Evitar el agotamiento es bueno para todos.
+* As mentioned, developers are encouraged to take the planning week off to allow their brain to recover from the previous sprint. There are no death marches. Developers don't work on the weekends. This all helps avoid burnout. Avoiding burnout is good for everyone.
 
-Eso es practicamente todo. El sistema no prescribe realmente prácticas de ingeniería y creo que eso está bien. Las prácticas de ingeniería se pueden definir a nivel de proyecto.
+That's pretty much it. The system doesn't really prescribe engineering practices and I think that's ok. Engineering practices can be defined at a per project level.
 
-El trabajo de soporte se realiza de forma rotativa porque a veces las cosas suceden de forma inesperada y deben tratarse, pero un número sorprendente de problemas puede esperar hasta más tarde..
+Support work is done on a rotating basis because sometimes things do happen unexpectedly and need to be dealt with, but a surprising number of issues can wait until later.
 
-Agile Lite es una forma mejor y más sostenible de desarrollar software. Empodera a los desarrolladores de software al tiempo que ofrece un nivel de productividad consistente y sólido a los interesados en el proyecto.
+Agile Lite is a better, more sustainable way to develop software. It empowers software developers while delivering a consistently solid level of productivity to project stakeholders.
 
-Para obtener más información sobre Agile Lite, te animo a leer:
+To learn more about Agile Lite, I encourage you to read:
 
-[Agile Lite para desarrolladores](agile_lite_for_developers.md)
+[Agile Lite for developers](agile_lite_for_developers.md)
 
-[Agile Lite para gerentes](agile_lite_for_managers.md)
+[Agile Lite for managers](agile_lite_for_managers.md)
 
 
 ---
-Si desea ver más lugares de trabajo implementando un sistema como este, dele una estrella a este repositorio en github y compártalos en las redes sociales para aumentar la visibilidad.  
+If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.  
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
