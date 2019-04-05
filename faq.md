@@ -34,6 +34,20 @@ I really value the concept of the work month having a defined start and stop and
 
 Because development work plus recovery time then fits into 12 slots per year. When the month is over, a new month begins. The "week off" allows a reset, and a new sprint begins. It's about achieving a cadence and having clear and consistent intervals.
 
+> Are developers included in sprint planning?
+
+Yes. They are not banned from the meeting. They just don't need to attend, especially if they've kept the Issue Tracking System current and the team has discussed some of the items for the next sprint during the course of the previous sprint. 
+
+I'm all for less meetings. Are you a rare person that enjoys meetings? As long as I don't have to attend, don't let me stop you.
+
+> Does it really take a week to plan a sprint?
+
+No, that's the point. It's a light week.
+
+> Are standups really a problem?
+
+In my experience, yes. It's usually everyone standing in a circle listening to one person talk for 20 minutes. Of course, this is "doing standups wrong", but I haven't seen any teams that do them right and I'd just as soon not do them at all. It is also harder (or at least more inconvenient) to do them when you have a geographically distributed team. But if standups are your thing and you get a ton of value from them, don't let me stop you.
+
 > Do we have to do it this way?
 
 No. Nobody is forcing you to do anything. They're guidelines, not rules. 
