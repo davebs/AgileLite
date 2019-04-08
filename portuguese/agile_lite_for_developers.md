@@ -28,11 +28,6 @@ Isso é praticamente todo o sistema. Pode ser modificado para atender às suas f
 Vamos parar de superaquecer nossos motores. Há muito trabalho a fazer por aí. Um buraco sem fundo, na verdade. Mas a vida é muito curta para gastar tudo trabalhando, estressado e, finalmente, esgotado.
 
 
-==============
-
-That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
-
-
 ---
 Se você quiser ver mais locais de trabalho implementando um sistema como este, por favor, marque este repositório no github e compartilhe nas redes sociais para aumentar a visibilidade.  
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
