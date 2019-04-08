@@ -1,10 +1,3 @@
-
-
-
- 
-  
-
-
 # Agile Lite: Agile sem todo o burnout, Dave Sullivan
 
 "Desenvolvimento ágil de software" é uma ótima idéia que foi supercomplicada pelas indústrias de publicação e consultoria. Agile Lite é uma tentativa de simplificar a situação. Você não precisa de um livro ou de um workshop para explicar o Agile Lite. Você só precisa de um arquivo de texto com vários parágrafos. Este é o arquivo de texto.
@@ -23,7 +16,7 @@ A configuração básica é esta:
 
 * Um Problema está no `backlog` ou na `sprint atual`.
 
-* Como mencionado, os desenvolvedores são encorajados a tirar a semana de planejamento para permitir que seu cérebro se recupere da sprint anterior. Não há marchas da morte. Os desenvolvedores não trabalham nos finais de semana. Isso tudo ajuda a evitar o burnout. Evitar o burnout é bom para todos.
+* Como mencionado, os desenvolvedores são encorajados a tirar a semana de planejamento para permitir que seu cérebro se recupere da sprint anterior. Não há marchas da morte. Os desenvolvedores não trabalham nos finais de semana. Isso tudo ajuda a evitar o esgotamento profissional. Evitar o esgotamento profissional é bom para todos.
 
 É basicamente isso. O sistema realmente não prescreve práticas de engenharia e acho que está tudo bem. As práticas de engenharia podem ser definidas em nível de projeto.
 
