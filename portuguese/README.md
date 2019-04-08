@@ -1,4 +1,4 @@
-# Agile Lite: Agile sem todo o burnout, Dave Sullivan
+# Agile Lite: Agile sem todo o burnout
 
 "Desenvolvimento ágil de software" é uma ótima idéia que foi supercomplicada pelas indústrias de publicação e consultoria. Agile Lite é uma tentativa de simplificar a situação. Você não precisa de um livro ou de um workshop para explicar o Agile Lite. Você só precisa de um arquivo de texto com vários parágrafos. Este é o arquivo de texto.
 
