@@ -1,6 +1,6 @@
 # Agile Lite: Agile sem todo o burnout
 
-"Desenvolvimento ágil de software" é uma ótima idéia que foi supercomplicada pelas indústrias de publicação e consultoria. Agile Lite é uma tentativa de simplificar a situação. Você não precisa de um livro ou de um workshop para explicar o Agile Lite. Você só precisa de um arquivo de texto com vários parágrafos. Este é o arquivo de texto.
+"Desenvolvimento ágil de software" é uma ótima idéia que foi supercomplicada pelas editoras e consultorias. Agile Lite é uma tentativa de simplificar a situação. Você não precisa de um livro ou de um workshop para explicar o Agile Lite. Você só precisa de um arquivo de texto com vários parágrafos. Este é o arquivo de texto.
 
 O Agile Lite é bem simples. Ele pode ser aplicado a qualquer projeto com pessoas trabalhando nele, supondo que o trabalho possa ser dividido em tarefas integrantes menores que chamaremos de Problemas. Como outras metodologias ágeis, utiliza ciclos curtos de desenvolvimento chamados Sprints. De forma relativamente única, o Agile Lite reconhece explicitamente a prevalência de burnout na indústria de desenvolvimento de software e tenta mitigá-lo diretamente por meio de um ciclo de desenvolvimento de 3 semanas de atividade por uma semana de inatividade.
 
