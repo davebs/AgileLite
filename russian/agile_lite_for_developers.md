@@ -36,4 +36,4 @@
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
 
-[Source](https://github.com/davebs/AgileLite/blob/master/agile_lite_for_developers.md)
+Original Source: [Agile_Lite_for_Developers](https://github.com/davebs/AgileLite/blob/master/agile_lite_for_developers.md)
