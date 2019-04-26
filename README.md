@@ -6,7 +6,7 @@ Agile Lite is pretty simple. It can be applied to any project with people workin
 
 The basic setup is this:
 
-* The first week of each cycle is spent with project leads and stakeholders defining the upcoming `sprint`. Despite a week being allocated, a sprint planning session should take no more than 2 hours and probably about 45 minutes if done correctly. It is an intentionally light week and many people may simply take the time off to paint or surf or whatever.
+* The first week of each cycle is spent with project leads, developers, and other stakeholders defining the upcoming `sprint`. Despite a week being allocated, a sprint planning session should take no more than 2 hours and probably about 45 minutes if done correctly. It is an intentionally light week and many people may simply take the time off to paint or surf or whatever.
 
 * The `sprint` takes place during the remaining 3 weeks of the cycle. During this period, engineers will work on the Issues that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
 
@@ -16,13 +16,17 @@ The basic setup is this:
 
 * An issue is either in the `backlog` or in the `current sprint`.
 
-* As mentioned, developers are encouraged to take the planning week off to allow their brain to recover from the previous sprint. There are no death marches. Developers don't work on the weekends. This all helps avoid burnout. Avoiding burnout is good for everyone.
+* As mentioned, developers are encouraged to take it easy during the planning week to allow their brain time to recover from the previous sprint. There are no death marches. Developers don't work on the weekends. This all helps avoid burnout. Avoiding burnout is good for everyone.
 
-That's pretty much it. The system doesn't really prescribe engineering practices and I think that's ok. Engineering practices can be defined at a per project level.
+While most work in a given sprint can be planned, sometimes things do happen unexpectedly. These unexpected issues are called `Support Issues`.
 
-Support work is done on a rotating basis because sometimes things do happen unexpectedly and need to be dealt with, but a surprising number of issues can wait until later.
+We suggest allocating time for unplannable Support Issues to certain members of the team during sprint planning. For instance, "Dave has 12 hours during the next sprint that can be allocated to support issues (the specifics of which will be defined later)." It is often beneficial to have a rotation where the developer(s) in charge of support during a given sprint will change each rotation.
 
-Agile Lite is a better, more sustainable way to develop software. It empowers software developers while delivering a consistently solid level of productivity to project stakeholders.
+To increase estimate accuracy, at each sprint planning session, the amount of support work that was actually done in the previous sprint is reviewed and it's decided whether *more* time or *less* time is needed for support work in the next sprint.
+
+In practice, different teams have different definitions for support work. Perhaps it means to support the customer/clients. Perhaps it means to support other developers. It is up to you to pick and choose which elements of this general methodology apply best to your team.
+
+That's pretty much it. Agile Lite is a better, more sustainable way to develop software. It empowers software developers while delivering a consistently solid level of productivity to project stakeholders.
 
 To learn more about Agile Lite, I encourage you to read:
 
