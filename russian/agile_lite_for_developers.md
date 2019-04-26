@@ -31,5 +31,7 @@
 
 Давайте прекратим перегревать наши двигатели! У нас итак много работы, которую мы должны сделать. По сути огромная яма работы. Но жизнь коротка, чтобы тратить ее все на работу, стресс и выгорание.
 
+----
+
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
