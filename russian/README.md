@@ -40,5 +40,9 @@ To learn more about Agile Lite, I encourage you to read:
 
 
 ---
+
+Original Source: [Agile Lite: Agile without all the burnout](https://github.com/davebs/AgileLite)
+
+---
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.  
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
