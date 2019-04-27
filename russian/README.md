@@ -1,8 +1,12 @@
-# Agile Lite: Agile without all the burnout
+# Agile Lite: Agile без перегрева
 
-"Agile software development" is a great idea that's been overcomplicated by the publishing and consulting industries. Agile Lite is an attempt to simplify the situation. You do not need a book or a workshop to explain Agile Lite. You just need a text file with several paragraphs. This is that text file.
+"Agile разработка программного обеспечения" это отличная идея, котороая в итоге была переусложненна умными дядьками из мира таймменеджемента и консалтинговых услуг. Представленный далее подход `Agile Lite` призван упростить ситуацию. Вам не нужны книги или семинары чтобы понять что такое `Agile Lite`. Вам достаточно иметь текстовый файл с несколькими параграфами описывающими этот подход. Это и есть этот текстовый файл.
 
-Agile Lite is pretty simple. It can be applied to any project with people working on it, assuming that the work can be broken into smaller component tasks that we'll just call Issues. Like other agile methodologies, it utilizes short development cycles called Sprints. Somewhat uniquely, Agile Lite explicitly acknowledges the prevalence of burnout in the software development industry and attempts to mitigate it directly via a 3 weeks on/1 week off development cycle.
+`Agile Lite` очень прост. Он может быть применен к любому проекту с людьми работающими над ним в команде, предполагается что работа команды разбивается на мелкие компоненты (таски), которые в дальнейшем мы будем называть задачами (Issues). Как и другие Agile методологии `Agile Lite` использует короткие циклы разработки именуемые `Спринты` (Sprints). Что уникально в данном подходе дак это то, что `Agile Lite` учитывает тенденцию команды к выгоранию при усиленной работе над проектом и призвана уменьшить или даже исключить данный фактор путем разбиения цикла разработки на 3-х недельный цикл спринта и 1 неделю разгрузки для команды.
+
+
+
+
 
 The basic setup is this:
 
