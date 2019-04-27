@@ -11,28 +11,32 @@
 
 * Далее начинается период 3-х недельного цикла спринта. В этот период разработчики работают над Задачами (Issues), которые были определены в первой неделе на сессиях планирования. Т.к. команда может быть удаленной и распределенной по часовым зонам, то живые митинги проводятся не часто и в основном вся коммуникация происходит через систему трекинга задач (issue tracking system), т.к. это более быстрый способ общения нежели по e-mail. Системой трекинга в данном случае может выступать Trello, не используйте для этого эксель таблицы гуглдокс, они для этого не годятся. Ежедневные стендапы не приветствуются; текущее состояние хода работы можно смотреть в системе трекинга тасков по мере обновления статусов задач разработчиками.
 
-* Как только начался период спринта, новые задачи не могут быть добавлены в текущий спринт, но они могут удалятся. Тем самым мы уменьшаем переключение между контектами у разработчиков и не нарушаем их текущий поток (flow) - не отвлекаем их от решения текущего потока задач, что есть хорошо.
+* Как только начался период спринта, новые задачи не могут быть добавлены в текущий спринт, но могут удалятся. Тем самым мы уменьшаем переключение между контектами у разработчиков и не нарушаем их текущий поток разработки (не отвлекаем их от решения текущего потока задач), что есть хорошо.
+
+* Задачи, которые не были завершены в период спринта, пересматриваются на следующий спринт в последующей неделе планирования где по ним принимается решение продолжать ли ее выполнение в следующем спринте или положит обратно в баклог (Backlog) или переназначить на другого разработчика.
+
+* Задачи которые предстоит выполнить могут располагаться только либо в беклоге (планируемые на будущее) либо в текущем спринте.
+
+* Как вы уже наверное поняли неделя планирования после спринта предназначена для разгрузки мозгов разработчиков и подготовки их к следующему периоду спринта. Здесь нет гонок на выживание. Разработчики не должны работать сверхурочно и на выходных днях. Все это призвано исключить выгарание команды. А исключение выгорания и стрессов полезно для всех.
 
 ----
-* Issues that are not completed during the sprint are reviewed at the next sprint planning session and it's decided whether to move the Issue forward into the next sprint, put it back in the Backlog, or reassign it to a different developer.
-
-* An issue is either in the `backlog` or in the `current sprint`.
-
-* As mentioned, developers are encouraged to take the planning week off to allow their brain to recover from the previous sprint. There are no death marches. Developers don't work on the weekends. This all helps avoid burnout. Avoiding burnout is good for everyone.
-
 That's pretty much it. The system doesn't really prescribe engineering practices and I think that's ok. Engineering practices can be defined at a per project level.
 
-Support work is done on a rotating basis because sometimes things do happen unexpectedly and need to be dealt with, but a surprising number of issues can wait until later.
+Вот и все. Данный подход не предписывает какие-то конкретные инструкции по разработке программного обеспечения, и это хорошо.
 
-Agile Lite is a better, more sustainable way to develop software. It empowers software developers while delivering a consistently solid level of productivity to project stakeholders.
+Работа по поддержке проекта выполняется на ежедневной основе, т.к. всегда могут случаться какие-то сбои или форсмажеры и разработчики должны быть готовы их устарнить. Если такое происходит, то текущие задачи откладываются и решается возникшая проблема, после чего разработчик продолжает выполнять свои задачи.
+
+`Agile Lite` лучше обычного Agile и более подходящий способ разработки программного обеспечения. Он дает возможность разработчикам иметь более высокую производительность, а владельцам проекта иметь стабильную и эффективную комманду для развития своего продукта и получения прибыли.
 
 To learn more about Agile Lite, I encourage you to read:
 
-[Agile Lite for developers](agile_lite_for_developers.md)
+Чтобы узнать больше о `Agile Lite`, рекомендую вам прочитать также эти небольшие статьи:
 
-[Agile Lite for managers](agile_lite_for_managers.md)
+[Agile Lite для разработчиков](agile_lite_for_developers.md)
 
-[Frequently Asked Questions](faq.md)
+[Agile Lite для менеджеров](agile_lite_for_managers.md)
+
+[Часто Задаваемые Вопросы (FAQ)](faq.md)
 
 
 ---
