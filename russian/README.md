@@ -25,15 +25,12 @@
 
 `Agile Lite` лучше обычного Agile и более подходящий способ разработки программного обеспечения. Он дает возможность разработчикам иметь более высокую производительность, а владельцам проекта иметь стабильную и эффективную комманду для развития своего продукта и получения прибыли.
 
-To learn more about Agile Lite, I encourage you to read:
 
 Чтобы узнать больше о `Agile Lite`, рекомендую вам прочитать также эти небольшие статьи:
 
-[Agile Lite для разработчиков](agile_lite_for_developers.md)
-
-[Agile Lite для менеджеров](agile_lite_for_managers.md)
-
-[Часто Задаваемые Вопросы (FAQ)](faq.md)
+* [Agile Lite для разработчиков](agile_lite_for_developers.md)
+* [Agile Lite для менеджеров](agile_lite_for_managers.md)
+* [Часто Задаваемые Вопросы (FAQ)](faq.md)
 
 
 ---
