@@ -1,22 +1,20 @@
-# Agile Lite: FAQ + Assertions
+# Agile Lite: FAQ + Комментарии
 
-> The only thing consistent about Agile is that everyone is doing it wrong. @fwip
+> Только одно утверждение верно на счет методологии Agile, это то, что все понимают ее неверно. @fwip
 
-## Frequently Asked Questions
+## Часто задаваемые вопросы
 
-> So you're telling me that engineers get 12 weeks off per year to surf and paint? How would that ever work in a world where 996 is becoming the norm?
+> Значит вы мне говорите, что у разработчиков есть 12 свободных недель в году, которые они могут потратить на что угодно, например, рисование, серфинг и прочие развлечения? Как это вообще может быть возможно в мире, где доминирует 8 часовой рабочий день, а в Китае вообще существует система [12 часового рабочего дня (996 working hour system)](https://en.wikipedia.org/wiki/996_working_hour_system).
 
-I think your team should take as much time off as it's comfortable with.
+Я считаю что ваша команда должна иметь столько разгрузочных дней, сколько ей комфортно.
 
-I will point out that the 40 hour work week was once considered a radical idea. Google started 80% time, we're at 75% time here, I'd like to get that down to 10% time (the Ferris method) by the end of the 2020s.
+Напомню, что когда-то внедрение системы 40 часовой рабочуй недели, тоже считалась радикальным решением. Напирмиер, компания Google, сравнительно недавно стала использовать идею, когда ее сотрудники работают 80% времени, а остальные 20% тратят на свои личные увлечения (хобби).
 
-996 (9am-9pm 6 days per week) is working on the other side of that, seeking to extend the 40 hour work week to a 72 hour work week. I see this as a regression and think people should stop fetishizing long hours. It's not actually more productive.
+[Китайская система 996 (работа с 9:00 до 21:00 6 дней в неделю)](https://en.wikipedia.org/wiki/996_working_hour_system), наоборот, пытается внедрить 72 часовую рабочую неделю. Я считаю это откатом в прошлое средневековье и считаю, что люди должны перестать пытаться ее внедрять и использовать, т.к. это не ведет к увеличению продуктивности работы.
 
-It's also up to you whether the "week off" is a week for vacation or for a lighter work load or for whatever else. The answer might depend on the particular week. 
+Так же это зависит от вас, как вы будете понимать неделю разгрузки, возможно в эту неделю работники должны работать не в полную меру или вообще отдыхать, это уже вы решайте сами. Суть в том что должна быть неделя разгрузки для них. Можете включить ее в счет части отпусков или еще как-нибудь.
 
-Maybe "light week" is easier for people to stomach than "week off". Use whichever you're more comfortable with.
-
-Surfing and painting are in no way required, they were merely cited as examples. In fact, I don't even surf OR paint.
+Просто ваша команда должна понимать что у нее после трех недельного спринта есть неделя разгрузки. А что они будут делать в этот период вы решите сами.
 
 > Are people *committing* to issues in a sprint or are they *forecasting* the issues they'll get to in a sprint?
 
