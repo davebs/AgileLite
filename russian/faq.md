@@ -1,4 +1,4 @@
-# Agile Lite: FAQ + Комментарии
+# Agile Lite: FAQ + Замечания
 
 > Только одно утверждение верно на счет методологии Agile, это то, что все понимают ее неверно. @fwip
 
@@ -16,39 +16,38 @@
 
 Просто ваша команда должна понимать, что у нее после трех недельного спринта есть неделя разгрузки. А что они будут делать в этот период вы решите сами.
 
-> Are people *committing* to issues in a sprint or are they *forecasting* the issues they'll get to in a sprint?
 
-They are forecasting. It is not a moral failing if your estimates are off. It's all part of the process and everyone's on the same team.
+> Если в период спринта разработчик приступеает к решению назначенной на него задачи, значит ли это что он должен ее обязательно закрыть в текущем спринте?
 
-> Can we call them iterations instead of sprints?
+Нет это не обязательно и зависит от степени сложности задачи, если он не укладвается в период спринта то на следующем этапе недельного плнанировани эта задача персматривается и проджект менеджер принимает решение о необходимости переноса ее в следующий спринт или возврат в беклог или назначение на другого разработчика.
 
-Sure! I'm going to stick with "sprint" myself.
 
-> Can we do a kanban style rolling iteration where start dates and end dates vary and depend on circumstances?
+> Можем ли мы называть трехнедельные периоды не спринты, а итерация?
 
-I really value the concept of the work cycle having a defined start date and stop date and being defined by a single block of tasks. Rolling iterations not synced to a specific cycle would mess that up.
+Да, конешно. Просто в данном описании мы придерживаемся понятия спринт.
 
-> Why 3 week sprints?
 
-Because development work plus recovery time then fits into 13 slots per year. When the cycle is over, a new cycle begins. The "week off" allows a reset before the new sprint begins. It's about achieving a cadence and having clear and consistent intervals.
+> Почему 3-х недельные спринты? 
 
-> Does this mean sprint start dates and end dates will often fall in the middle of the calendar month?
+Потому что работа по разработке плюс время на восстановление должно укладываться в 13 частей (интервалов) в год. Когда закончивается очередной цикл и начинается новый. Разгрузочная неделя обеспечивает моральную разгрузку перед началом нового периода очередного спринта.
 
-Yes.
 
-> Are developers included in sprint planning?
+> Заничит ли это, что начало спринта и его окончание зачастую будут находится в середине календарного месяца?
 
-Yes. They are not banned from the meeting. They just don't need to attend, especially if they've kept the Issue Tracking System current and the team has discussed some of the items for the next sprint during the course of the previous sprint. 
+Да.
 
-I'm all for less meetings. Are you a rare person that enjoys meetings? As long as I don't have to attend, don't let me stop you.
 
-> Does it really take a week to plan a sprint?
+> Должны ли разработчики привлекаться к планированию очередного спринта?
 
-No, that's the point. It's a light week.
+Да. Разаработчикам не воспрещается посещять митинги по планированию очередного спринта. Просто зачастую им это не требуется, т.к. они итак видят свои задачи в системе трекинга и команда возможно уже обсуждала эти задачи на предыдыщем спринте.
+
+Вообще я за минимизацию митингов. Вам нравятся митинги? Я сторонник того чтобы митинги собирались по острой необходимости и чтобы на них присутвовали только необходимые для обсуждения задач люди.
+
 
 > Are standups really a problem?
 
 In my experience, yes. It's usually everyone standing in a circle listening to one person talk for 20 minutes. Of course, this is "doing standups wrong", but I haven't seen any teams that do them right and I'd just as soon not do them at all. It is also harder (or at least more inconvenient) to do them when you have a geographically distributed team. But if standups are your thing and you get a ton of value from them, don't let me stop you.
+
 
 > Do we have to do it this way?
 
@@ -57,6 +56,7 @@ No. Nobody is forcing you to do anything. They're guidelines, not rules.
 This is not a religion. 
 
 It is political only in the sense that advocating a 40 hour work week was political.
+
 
 > Are you aware that what works for you might not work for others?
 
