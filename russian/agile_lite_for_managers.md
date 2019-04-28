@@ -1,31 +1,36 @@
 # Agile Lite for managers
 
-Has working with software developers been a challenge at your company? Have you seen projects that consistently miss deadlines? Have you worked with developers that start out great and then slowly decline and then disappear? You may simply be dealing with a talented developer that experienced burnout on your project. 
+Раотать с командой разработчиков не простая задача в вашей компании? Встречались ли вам проекты, которые постоянно не укладываются в оговоренные сроки выполнения? Работали ли вы с разработчиками, которые активно начинали работать над каким-нибудь новым проектом, а потом медленно охладевали к нему или восе покидали проект? Возможно вы просто имели дело с талантливыми разработчиками, испытывающими состояние выгорания при работе над проектом.
 
-Burnout is extremely common in the software industry and is a key reason many software projects fail. Burnout can maybe best be described as symptoms of Post Traumatic Stress Disorder that are connected to a given project or organization. For instance, your brain might shut off and you might become extremely anxious at the mere mention of a certain project. This is burnout. A developer in such a state will likely be unable to continue working on that project and may experience diminished productivity on their next several projects as well. Burnout can cripple careers.
+Выгорание это довольно частое эмоциональное состояние команд разработчиков в IT сфере, приводящее к краху проекта над которым они работают. Выгорание может быть описано как симптомы посттравматического стрессового расстройства, свзянного с работой над проектом или в конкретной организации. Например, мозг человека находящегося в таком состоянии может отключаться и он может испытывать сильную тревогу при упоминании одного лишь названия проекта. Разработчик в таком состоянии, скорее всего, не сможет продолжать работу над таким проектом и может испытывать снижение производительности при работе над другими проектами. Также выгорание может нанести серьезный вред карьере.
 
-There are many reasons for burnout, but the most basic reason is that it is the result of working too much, under too much stress, for too long.
+У состояния выгорания, существует множество причин, но все они могут быть описаны как результат напряженной работы под большим стрессом достаточно продолжительное время.
 
-It is like running a car engine at high RPMs for a very long time without adding oil or gas. Eventually that engine will break and it will be hard to put it back together.
+Это как ездить постоянно на машине на повышенных оборотах без добавления масла и бензина. В итоге рано или поздно двигатель выйдет из строя и его будет сложно или уже не возможно починить.
 
-I'm proposing a solution. It's a form of agile that's explicitly designed to help avoid burnout. I call it Agile Lite.
+Я предлагаю решение данной проблемы. Это форма agile методологии созданная специально для исключения выгорания команды. Я называю эту методологию `Agile Lite` (Agile без выгорания).
 
-* The most basic rule is this: Every cycle includes a 3 week sprint and 1 week "off" where sprint planning is done. 3 weeks on/1 week off. 
+Ее оснонвые правила следующие: 
+* Каждый цикл разработки включает 3 недели спринта и 1 неделю разгрузки, в которую выполняется планирование спринта на следующий период. Мантра: **3 недели спринт / 1 неделя разгрузки**.
+* Сприн включает в себя решение задач (`Issues`), и разработчики их решают, и регистрируют их выполнение в системе багтрекинга.
+* Как только начался 3-х недельний сприн, в этот период никакие новые задачи не могут быть добавлены в данный спринт, только удалены/закрыты. Это исключает частые переключения разработчиков между контектсами задач и это хорошо.
+* Задачей (`Issue`) является любой блок работы, который занимает от 4 до 8 часов рабочего времени разработчика и который прописан в виде описанной задачи (таска) в систему трекинга.
+* Любые задачи в текущем спринте, которые не были завершены по окончанию очердного периода спринта, пересматриваются в течении периода недельной разгрузки и планирования, и переносятся в следующий 3-х недельний спринт.
+* Мы отказваемся от такого понятия как переработки. У нас нет гонок на выживание. Разработчики на постоянной основе получают новые порции задач и получают необходимое время на их выполнение, а также время на разгрузку своих мозгов. Менеджерские затраты на управление при этом минимальны.
 
-* A sprint contains Issues and engineers solve Issues, logging pertinent questions and updates to the Issue Tracker.
+Это и есть описание методологии разработки по `Agile Lite`. Естественно вы можете подкорректировать эти описания под свои нужды. Но есть один отличительный признак Agil Lite, который я хотел бы отметить - это то, что мы явно говорим: "Эй, команды работающие по методологии agile тоже могут выгорать также как и команды работающие по другим методологиям, возможно нам надо добавить еще некоторых правил, чтобы уменьшить вероятность выгорания нашего движка, которым явялется наша команда".
 
-* An issue is any unit of work that should take 4-8 hours of engineering effort. An issue is either in the current sprint or in the backlog.
+Давайте прекратим перегревать наши движки! У нас итак много работы, которую мы должны сделать. По сути бездонная яма работы. Но жизнь коротка, чтобы тратить ее всю на работу, стресс и выгорание.
 
-* Once a sprint has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
+----
 
-* Any Issues in the current sprint that are not completed by the end of the sprint are reviewed during the 1 week of sprint planning.
-
-* There is no working overtime. There can be no death marches. Engineers are put on a regular cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
-
-That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
-
-Let's stop overheating our engines. There's plenty of work to do out there. A pit without bottom, in fact. But life is too short to spend all of it working, stressed, and ultimately burned out.
-
----
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
+
+----
+
+Original Source: [Agile_Lite_for_Managers](https://github.com/davebs/AgileLite/blob/master/agile_lite_for_managers.md)
+
+![01](01.jpg)
+
+
