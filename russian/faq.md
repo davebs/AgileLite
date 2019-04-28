@@ -44,43 +44,44 @@
 Вообще я за минимизацию митингов. Вам нравятся митинги? Я сторонник того чтобы митинги собирались по острой необходимости и чтобы на них присутвовали только необходимые для обсуждения задач люди.
 
 
-> Are standups really a problem?
+> Являются ли стендапы проблемой?
 
-In my experience, yes. It's usually everyone standing in a circle listening to one person talk for 20 minutes. Of course, this is "doing standups wrong", but I haven't seen any teams that do them right and I'd just as soon not do them at all. It is also harder (or at least more inconvenient) to do them when you have a geographically distributed team. But if standups are your thing and you get a ton of value from them, don't let me stop you.
-
-
-> Do we have to do it this way?
-
-No. Nobody is forcing you to do anything. They're guidelines, not rules. 
-
-This is not a religion. 
-
-It is political only in the sense that advocating a 40 hour work week was political.
+По моему опыту да, это проблема. Обычно все кто стоит в кругу, слушают разговор одного человека 20 минут. Конечно, это вариант "как не нужно проводить стендапы", но я не видел пока ни одной команды, которая бы их проводила правильно, поэтому я бы просто рекомендовал бы их вообще не проводить. Такж нет смысла их проводить, если ваша команда разработки распределена географически. Но если же вы считается что стендапы вам необходимы то не буду вас от них отговариавть. Делайте как считаете лучше для своей команды.
 
 
-> Are you aware that what works for you might not work for others?
+> Должны ли мы делать все в точности как описано в данных статьях по Agile Lite?
 
-I sure am!
+Нет, конечно. В статьях указаны рекомендации, а не беспрекословные требования. 
 
 
-## Frequent Assertions
+> Согласны ли вы с тем, что то, что работает для вас, может не работать для остальных?
 
-> You shouldn't estimate because estimates are impossible.
+Конечно, да.
 
-Estimates are regarded as estimates, not as blood contracts. Therefore, if they are off, that's ok. Do the best you can and estimate in increments of 4 hours.
 
-> Developers cannot be trusted and must account for all their time because that's how work works.
+## Замечания
 
-I really disagree but can't explain why quickly. We have a fundamental difference in world views.
+> Вы не должны точно оценивать сроки выполнения задач, т.к. точные оценки невозможны.
 
-> This isn't agile.
+Все наши оценки по срокам и прочему мы должны рассматривать как приблизительные оценки, а не точноый сроки с дедлайнами. Поэтому, зачастую, от оценок луше отказаться. Просто делайте качественно свою работу и оценивайте ее в интервале 4 часов рабочего времени. Например, успею ли я сделать это за 4 часа?
 
-Sure it is, it's right there in the name.
 
-> This will never work.
+> Разработчикам нельзя доверять, за ними нужно следить, и они должны постоянно отчитываться о проделанной работе. Потому что только так делается работа.
 
-And yet it does.
+Абсолютно не согласен с данным утверждением. Я не смогу вам быстро объяснить почему это утверждение неверно, но скажу что если вы так действительно считаете то у нас с вами разные точки зрения на то как должна быть организована работа команды разработки.
 
-> You're doing agile wrong.
 
-Unfortunately the problem with agile is that it cannot be done correctly.
+> То что вы описали здесь это не Agile
+
+Нет, не верно. Все что тут описано, это методология Agile.
+
+
+> Это никогда не будет работать
+
+Но это работает.
+
+
+> Вы неправильно трактуете и используете методологию Agile
+
+К сожалению, проблема методологии Agile в том, что она не может быть сделана неправильно =)
+Каждый ее делает по-своему.
