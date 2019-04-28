@@ -29,7 +29,7 @@ Dave Sullivan 2019 dave.brian.sullivan@gmail.com
 
 ----
 
-Original Source: [Agile_Lite_for_Managers](https://github.com/davebs/AgileLite/blob/master/agile_lite_for_managers.md)
+Источник: [Agile_Lite_for_Managers](https://github.com/davebs/AgileLite/blob/master/agile_lite_for_managers.md)
 
 ![01](01.jpg)
 
