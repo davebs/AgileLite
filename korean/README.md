@@ -30,11 +30,11 @@ Agile Lite는 매우 간단합니다. "전체 작업"을 우리가 이슈라고 
 
 Agile Lite에 대한 자세한 내용은 다음을 읽어보십시오:
 
-[개발자를 위한 Agile Lite](korean/agile_lite_for_developers.md)
+[개발자를 위한 Agile Lite](agile_lite_for_developers.md)
 
-[매니저를 위한 Agile Lite](korean/agile_lite_for_managers.md)
+[매니저를 위한 Agile Lite](agile_lite_for_managers.md)
 
-[자주 묻는 질문](korean/faq.md)
+[자주 묻는 질문](faq.md)
 
 
 ---
