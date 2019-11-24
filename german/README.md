@@ -1,13 +1,12 @@
-# Agile Lite: Agile ohne auszubrennen
+# Agile Lite: Agil ohne auszubrennen
 
 "Agile Softwareentwicklung" ist eine großartige Idee, die von vielen Autoren und Beratern zu kompliziert dargestellt wird. "Agile Lite" ist der Versuch diese Situation wieder einfacher zu gestalten. Sie brauchen weder ein Buch noch einen Workshop um Agile Lite zu erklären. Sie brauchen nur eine Textdatei mit ein paar Paragraphen. Dies ist diese Textdatei.
 
-Agile Lite ist ein simples Prinzip. Es kann auf auf jedes Projekt angewendet werden, an dem Personen gemeinsam arbeiten, vorausgesetzt die Arbeit kann ich kleinere Aufgabenblöcke unterteilt werden (fortfolgend "Issues"). Wie andere agile Methoden benutzt Agile Lite kurze Entwicklungszyklen, so genannte "Sprints".
-Somewhat uniquely, Agile Lite explicitly acknowledges the prevalence of burnout in the software development industry and attempts to mitigate it directly via a 3 weeks on/1 week off development cycle.
+Agile Lite ist ein simples Prinzip. Es kann auf auf jedes Projekt angewendet werden, an dem Personen gemeinsam arbeiten, vorausgesetzt die Arbeit kann ich kleinere Aufgabenblöcke unterteilt werden (fortfolgend "Issues"). Wie andere agile Methoden benutzt Agile Lite kurze Entwicklungszyklen, so genannte "Sprints". Dabei wird ausdrücklich berücksichtigt, dass in der Softwareindustrie die Gefahr eines Burn-out besteht und versucht diesem Problem mit einem Entwicklungszyklus zu begegnen, der drei aktive Projektwochen und eine Woche ohne direkten Projektbezug vorsieht.
 
-The basic setup is this:
+Die grundlegenen Prinzipien sind:
 
-* The first week of each cycle is spent with project leads, developers, and other stakeholders defining the upcoming `sprint`. Despite a week being allocated, a sprint planning session should take no more than 2 hours and probably about 45 minutes if done correctly. It is an intentionally light week and many people may simply take the time off to paint or surf or whatever.
+* Die erste Woche jedes Entwicklungszyklus wird damit verbracht dass sich Projektleiter, Entwickler und andere am Projekt beteiligte Personen damit auseinandersetzen welche Ziele für den nächsten `Sprint`definiert werden. Obwohl eine ganze Woche dafür reserviert wird, sollte diese Sprintplanung nicht mehr als zwei Stunden in Anspruch nehmen (vermutlich ca 45 Minuten, wenn es richtig gemacht wird). Die Woche ist absichtlich ohne Ziele angesetzt und viele Menschen nutzen sie einfach als Auszeit um zu Malen, Wandern oder für anderen Aktivitäten.
 
 * The `sprint` takes place during the remaining 3 weeks of the cycle. During this period, engineers will work on the Issues that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
 
