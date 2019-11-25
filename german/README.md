@@ -1,20 +1,20 @@
 # Agile Lite: Agil ohne auszubrennen
 
-"Agile Softwareentwicklung" ist eine großartige Idee, die von vielen Autoren und Beratern zu kompliziert dargestellt wird. "Agile Lite" ist der Versuch diese Situation wieder einfacher zu gestalten. Sie brauchen weder ein Buch noch einen Workshop um Agile Lite zu erklären. Sie brauchen nur eine Textdatei mit ein paar Paragraphen. Dies ist diese Textdatei.
+"Agile Softwareentwicklung" ist eine großartige Idee, die leider von vielen Autoren und Beratern zu kompliziert dargestellt wird. Mit `Agile Lite` soll versucht werden dieses Prinzip wieder einfacher zu gestalten. Sie brauchen weder ein Buch noch einen Workshop um Agile Lite zu erklären. Sie brauchen nur einen kurzen Text mit ein paar Paragraphen - diesen Text.
 
-Agile Lite ist ein simples Prinzip. Es kann auf auf jedes Projekt angewendet werden, an dem Personen gemeinsam arbeiten, vorausgesetzt die Arbeit kann ich kleinere Aufgabenblöcke unterteilt werden (fortfolgend "Issues"). Wie andere agile Methoden benutzt Agile Lite kurze Entwicklungszyklen, so genannte "Sprints". Dabei wird ausdrücklich berücksichtigt, dass in der Softwareindustrie die Gefahr eines Burn-out besteht und versucht diesem Problem mit einem Entwicklungszyklus zu begegnen, der drei aktive Projektwochen und eine Woche ohne direkten Projektbezug vorsieht.
+Agile Lite ist ein simples Prinzip. Es kann auf auf jedes Projekt angewendet werden, an dem Personen gemeinsam arbeiten, vorausgesetzt die Arbeit kann ich kleinere Aufgabenblöcke unterteilt werden ("Issues"). Wie andere agile Methoden benutzt Agile Lite kurze Entwicklungszyklen, so genannte "Sprints". Dabei wird ausdrücklich berücksichtigt, dass in der Softwareindustrie die Gefahr eines Burn-out besteht und versucht diesem Problem mit einem Entwicklungszyklus zu begegnen, der drei aktive Projektwochen und eine Woche ohne direkten Projektbezug vorsieht.
 
 Die grundlegenen Prinzipien sind:
 
 * Die erste Woche jedes Entwicklungszyklus wird damit verbracht dass sich Projektleiter, Entwickler und andere am Projekt beteiligte Personen damit auseinandersetzen welche Ziele für den nächsten `Sprint`definiert werden. Obwohl eine ganze Woche dafür reserviert wird, sollte diese Sprintplanung nicht mehr als zwei Stunden in Anspruch nehmen (vermutlich ca 45 Minuten, wenn es richtig gemacht wird). Die Woche ist absichtlich ohne Ziele angesetzt und viele Menschen nutzen sie einfach als Auszeit um zu Malen, Wandern oder für anderen Aktivitäten.
 
-* The `sprint` takes place during the remaining 3 weeks of the cycle. During this period, engineers will work on the Issues that were allocated to them during the sprint planning sessions. Because the team may be fully remote and distributed over time-zones, "live" meetings happen infrequently and most communication happens through the `issue tracking system` (which is faster to work with than e-mail). A shared kanban board like Trello is a sufficient issue tracking system, but a spreadsheet is probably not. Daily standups are discouraged; a basic pulse on the project can be obtained by reviewing issue tracking system updates.
+* Der eigentliche `Sprint`wird in den verbleibenden drei Wochen des Zyklus durchgeführt. Während dieser Zeitspanne arbeiten Entwickler an den Aufgaben, die ihnen während der Planungsphase zugewiesen wurden. Da das Team auf verschiedene Standorte in verschiedenen Zeitzonen verteilt sein könnte, kann es schwierig sein an gemeinsamen Meetings teilzunehmen. Aus diesem Grund finden Meetings unregelmäßig statt und der Großteil der Kommunikation erfolgt durch das `Issue Tracking System` (welches eine schnellere Verständigung erlaubt als durch E-Mails). Ein geteiltes Kanban-Board wie Trello kann als Tracking System ausreichend sein, ein Tabellenblatt ist es vermutlich nicht. Tägliche Standups sind nicht mehr zwingend nötig, da der aktuelle Status des Projekts durch das Tracking System ermittelt werden kann.
 
-* Once a `sprint` has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
+* Sobald ein `Sprint`begonnen hat, dürfen keine weiteren Issues zum Sprint hinzugefügt werden - es dürfen aber bestehende Issues entfernt werden. Dieses Vorgehen reduziert das Wechseln des Kontext und das ist eine gute Sache.
 
-* Issues that are not completed during the sprint are reviewed at the next sprint planning session and it's decided whether to move the Issue forward into the next sprint, put it back in the Backlog, or reassign it to a different developer.
+* Issues, die nicht während des geplanten Sprints erledigt wurden, werden in der nächsten Planungsrunde einem Review unterzogen um zu entscheiden, ob die Aufgabe für den nächsten Sprint eingeplant wird, in den Backlog verschoben wird oder einem anderen Entwickler zugeordnet wird.
 
-* An issue is either in the `backlog` or in the `current sprint`.
+* Ein Issue ist entweder im `Backlog`oder im `aktuellen Sprint`.
 
 * As mentioned, developers are encouraged to take it easy during the planning week to allow their brain time to recover from the previous sprint. There are no death marches. Developers don't work on the weekends. This all helps avoid burnout. Avoiding burnout is good for everyone.
 
