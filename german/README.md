@@ -1,42 +1,42 @@
 # Agile Lite: Agil ohne auszubrennen
 
-"Agile Softwareentwicklung" ist eine großartige Idee, die leider von vielen Autoren und Beratern zu kompliziert dargestellt wird. Mit `Agile Lite` soll versucht werden dieses Prinzip wieder einfacher zu gestalten. Sie brauchen weder ein Buch noch einen Workshop um Agile Lite zu erklären. Sie brauchen nur einen kurzen Text mit ein paar Paragraphen - diesen Text.
+"Agile Softwareentwicklung" ist eine großartige Idee, die leider von vielen Autoren und Beratern zu kompliziert dargestellt wird. Mit `Agile Lite` soll versucht werden dieses Prinzip wieder einfacher zu gestalten. Du brauchst weder ein Buch noch einen Workshop um Agile Lite zu erklären. Du benötigst nur einen kurzen Text mit ein paar Paragraphen - diesen Text.
 
-Agile Lite ist ein simples Prinzip. Es kann auf auf jedes Projekt angewendet werden, an dem Personen gemeinsam arbeiten, vorausgesetzt die Arbeit kann ich kleinere Aufgabenblöcke unterteilt werden ("Issues"). Wie andere agile Methoden benutzt Agile Lite kurze Entwicklungszyklen, so genannte "Sprints". Dabei wird ausdrücklich berücksichtigt, dass in der Softwareindustrie die Gefahr eines Burn-out besteht und versucht diesem Problem mit einem Entwicklungszyklus zu begegnen, der drei aktive Projektwochen und eine Woche ohne direkten Projektbezug vorsieht.
+Agile Lite ist ein simples Prinzip. Es kann auf auf jedes Projekt angewendet werden, an dem Personen gemeinsam arbeiten, vorausgesetzt die Arbeit kann ich kleinere Aufgabenblöcke unterteilt werden ("Issues"). Wie andere agile Methoden benutzt Agile Lite kurze Entwicklungszyklen, so genannte "Sprints". Dabei wird ausdrücklich berücksichtigt, dass in der Softwareindustrie die Gefahr eines Burn-out besteht. Es wird versucht diesem Problem mit einem Entwicklungszyklus zu begegnen, der drei aktive Projektwochen und eine Woche ohne direkten Projektbezug vorsieht.
 
 Die grundlegenen Prinzipien sind:
 
-* Die erste Woche jedes Entwicklungszyklus wird damit verbracht dass sich Projektleiter, Entwickler und andere am Projekt beteiligte Personen damit auseinandersetzen welche Ziele für den nächsten `Sprint`definiert werden. Obwohl eine ganze Woche dafür reserviert wird, sollte diese Sprintplanung nicht mehr als zwei Stunden in Anspruch nehmen (vermutlich ca 45 Minuten, wenn es richtig gemacht wird). Die Woche ist absichtlich ohne Ziele angesetzt und viele Menschen nutzen sie einfach als Auszeit um zu Malen, Wandern oder für anderen Aktivitäten.
+* Die erste Woche jedes Entwicklungszyklus wird damit verbracht dass sich Projektleiter, Entwickler und andere am Projekt beteiligte Personen damit auseinandersetzen welche Ziele für den nächsten `Sprint`definiert werden. Obwohl eine ganze Woche dafür reserviert wird, sollte diese Sprintplanung nicht mehr als zwei Stunden in Anspruch nehmen (vermutlich ca 45 Minuten, wenn es richtig gemacht wird). Die Woche ist absichtlich ohne Ziele geplant und viele Menschen nutzen sie einfach als Auszeit um zu Malen, Wandern oder für anderen Aktivitäten.
 
-* Der eigentliche `Sprint`wird in den verbleibenden drei Wochen des Zyklus durchgeführt. Während dieser Zeitspanne arbeiten Entwickler an den Aufgaben, die ihnen während der Planungsphase zugewiesen wurden. Da das Team auf verschiedene Standorte in verschiedenen Zeitzonen verteilt sein könnte, kann es schwierig sein an gemeinsamen Meetings teilzunehmen. Aus diesem Grund finden Meetings unregelmäßig statt und der Großteil der Kommunikation erfolgt durch das `Issue Tracking System` (welches eine schnellere Verständigung erlaubt als durch E-Mails). Ein geteiltes Kanban-Board wie Trello kann als Tracking System ausreichend sein, ein Tabellenblatt ist es vermutlich nicht. Tägliche Standups sind nicht mehr zwingend nötig, da der aktuelle Status des Projekts durch das Tracking System ermittelt werden kann.
+* Der eigentliche `Sprint`wird in den verbleibenden drei Wochen des Zyklus durchgeführt. Während dieser Zeitspanne arbeiten Entwickler an den Aufgaben, die ihnen während der Planungsphase zugewiesen wurden. Da das Team auf verschiedene Standorte in verschiedenen Zeitzonen verteilt sein könnte, kann es schwierig sein gemeinsamen Meetings zu organisieren. Aus diesem Grund finden Meetings eher unregelmäßig statt und der Großteil der Kommunikation erfolgt durch das `Issue Tracking System` (welches eine schnellere Verständigung erlaubt als durch E-Mails). Ein geteiltes Kanban-Board wie Trello kann als Tracking System ausreichend sein, ein Tabellenblatt ist es vermutlich nicht. Tägliche Standups sind nicht mehr zwingend nötig, da der aktuelle Status des Projekts schnell durch das Tracking System ermittelt werden kann.
 
 * Sobald ein `Sprint`begonnen hat, dürfen keine weiteren Issues zum Sprint hinzugefügt werden - es dürfen aber bestehende Issues entfernt werden. Dieses Vorgehen reduziert das Wechseln des Kontext und das ist eine gute Sache.
 
-* Issues, die nicht während des geplanten Sprints erledigt wurden, werden in der nächsten Planungsrunde einem Review unterzogen um zu entscheiden, ob die Aufgabe für den nächsten Sprint eingeplant wird, in den Backlog verschoben wird oder einem anderen Entwickler zugeordnet wird.
+* Issues, die nicht während des geplanten Sprints erledigt wurden, werden in der nächsten Planungsrunde einem Review unterzogen, um zu entscheiden, ob die Aufgabe für den nächsten Sprint eingeplant, in den Backlog verschoben oder einem anderen Entwickler zugeordnet wird.
 
 * Ein Issue ist entweder im `Backlog`oder im `aktuellen Sprint`.
 
-* As mentioned, developers are encouraged to take it easy during the planning week to allow their brain time to recover from the previous sprint. There are no death marches. Developers don't work on the weekends. This all helps avoid burnout. Avoiding burnout is good for everyone.
+* Wie bereits erwähnt sollen Entwickler ermutigt werden es während der Planungswoche leichter angehen zu lassen. Dadurch soll dem Gehirn die Möglichkeit gegeben werden sich vom vorherigen Sprint zu erholen. Es gibt keine Todesmärsche. Es wird nicht am Wochenende gearbeitet. All diese Festlegungen sollen dabei helfen die Teammitglieder vor einem Burn-out zu bewahren - was am Ende gut für das ganze Team ist.
 
-While most work in a given sprint can be planned, sometimes things do happen unexpectedly. These unexpected issues are called `Support Issues`.
+Zwar kann der Großteil der Arbeit in einem Sprint geplant werden, trotzdem kommt es immer wieder zu unerwarteten Zwischenfällen. Diese ungeplanten Aufgaben werden `Support Issues`genannt.
 
-We suggest allocating time for unplannable Support Issues to certain members of the team during sprint planning. For instance, "Dave has 12 hours during the next sprint that can be allocated to support issues (the specifics of which will be defined later)." It is often beneficial to have a rotation where the developer(s) in charge of support during a given sprint will change each rotation.
+Wir empfehlen für einige Teammitglieder feste Zeitspannen während des Sprints zu planen, in denen sie sich diesen unplanbaren Support Issues widmen können. Beispielsweise kann festgelegt sein: "Dave hat während des nächsten Sprints 12 Stunden Zeit für Support Issues, die erst später definiert werden." Meist ist es von Vorteil, wenn diese Verantwortung mit jedem Sprint an andere Teammitglieder weitergegeben wird.
 
-To increase estimate accuracy, at each sprint planning session, the amount of support work that was actually done in the previous sprint is reviewed and it's decided whether *more* time or *less* time is needed for support work in the next sprint.
+Für die Planungsrunde werden Aufwandsschätzungen für die Support Issues benötigt. Um die Genauigkeit dieser Schätzungen zu erhöhen, wird in jeder Planungsrunde rekapituliert wie viel Arbeit im letzten Sprint tatsächlich für diese Aufgaben aufgewendet wurde. Anhand dieses Werts wird entschieden, ob im nächsten Sprint *mehr* oder *weniger* Zeit für Support Issues eingeplant wird.
 
-In practice, different teams have different definitions for support work. Perhaps it means to support the customer/clients. Perhaps it means to support other developers. It is up to you to pick and choose which elements of this general methodology apply best to your team.
+In der Realität haben unterschiedliche Teams verschiedene Definitionen für "Support Issue". Vielleicht bedeutet es Support für Kunden. Vielleicht heißt es einen anderen Entwickler zu unterstützen. Es liegt an Ihnen zu entscheiden welche Definition dieser generellen Methode am besten für ihr Team angewendet werden kann.
 
-That's pretty much it. Agile Lite is a better, more sustainable way to develop software. It empowers software developers while delivering a consistently solid level of productivity to project stakeholders.
+Das war's. Agile Lite ist ein besserer, nachhaltigerer Weg um Software zu entwickeln. Es bietet den Entwicklern mehr Freiheiten und liefert dabei trotzdem einen konstanten Level an Produktivität.
 
-To learn more about Agile Lite, I encourage you to read:
+Um mehr über Agile Lite zu lernen, empfehle ich Ihnen folgende Texte:
 
-[Agile Lite for developers](agile_lite_for_developers.md)
+[Agile Lite für Entwickler](agile_lite_for_developers.md)
 
-[Agile Lite for managers](agile_lite_for_managers.md)
+[Agile Lite für Manager](agile_lite_for_managers.md)
 
 [Frequently Asked Questions](faq.md)
 
 
 ---
-If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.  
+Wenn du mehr Teams dabei helfen willst dieses System kennenzulernen und umzusetzen, gib diesem Repo bitte einen Stern auf Github und teile es in den sozialen Medien um die Sichtbarkeit zu erhöhen.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
