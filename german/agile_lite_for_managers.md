@@ -2,30 +2,30 @@
 
 Ist die Arbeit mit Softwareentwicklern eine Herausforderung in deiner Organisation? Beobachtest du immer wieder wie Projekte ihre Deadlines verfehlen? Hast du mit Entwicklern gearbeitet, die vielversprechend angefangen haben, mit der Zeit immer weniger produktiv wurden und irgendwann verschwunden sind? Vielleicht hattest du es einfach mit einem talentierten Entwickler zu tun, der an deinem Projekt Burn-out erlitten hat.
 
-Burnout is extremely common in the software industry and is a key reason many software projects fail. Burnout can maybe best be described as symptoms of Post Traumatic Stress Disorder that are connected to a given project or organization. For instance, your brain might shut off and you might become extremely anxious at the mere mention of a certain project. This is burnout. A developer in such a state will likely be unable to continue working on that project and may experience diminished productivity on their next several projects as well. Burnout can cripple careers.
+Burn-out ist keine Seltenheit in der Softwareindustrie und einer der Hauptgründe, warum Projekte scheitern. Burn-out kann am besten als Symptome einer posttraumatischen Belastungsstörung beschrieben werden, die mit einem bestimmten Projekt oder einer Organisation verknüpft sind. Beispielsweise schaltest du mental sofort ab oder bekommst leichte Panik bei der bloßen Erwähnung des Projektnamens. Das ist Burn-out. In einem solchen Zustand ist ein Entwickler nicht mehr in der Lage produktiv am Projekt zu arbeiten, eventuell wird sogar seine Produktivität für nachfolgende Projekte beeinträchtigt. Burn-out kann Karrieren beenden.
 
-There are many reasons for burnout, but the most basic reason is that it is the result of working too much, under too much stress, for too long.
+EEs gibt viele Gründe für einen Burn-out, meist steht es aber in Verbindung mit zu viel Arbeit unter zu viel Stress über einen zu langen Zeitraum.
 
-It is like running a car engine at high RPMs for a very long time without adding oil or gas. Eventually that engine will break and it will be hard to put it back together.
+Es lässt sich mit einem Motor vergleichen, der über lange Zeit in einem Bereich mit hohen Drehzahlen gehalten wird, ohne Öl zuzugeben. Irgendwann wird der Motor brechen und dann ist es schwierig ihn wieder zusammenzusetzen.
 
-I'm proposing a solution. It's a form of agile that's explicitly designed to help avoid burnout. I call it Agile Lite.
+Ich schlage dir eine Lösung vor. Eine Form von agiler Entwicklung, die explizit dafür entworfen wurde Burn-out zu verhindern. Ich nenne es "Agile Lite":
 
-* The most basic rule is this: Every cycle includes a 3 week sprint and 1 week "off" where sprint planning is done. 3 weeks on/1 week off. 
+* Die Grundregel ist: Jeder Zyklus enthält drei Wochen Sprint und eine Woche "Auszeit", in der die Sprintplanung erledigt wird. Drei Wochen Arbeit, eine Woche Auszeit.
 
-* A sprint contains Issues and engineers solve Issues, logging pertinent questions and updates to the Issue Tracker.
+* Ein Sprint enthält Issues. Entwickler arbeiten an diesen Issues, hinterlegen auftretende Fragen und verzeichnen Aktualisierungen im Issue Tracker.
 
-* An issue is any unit of work that should take 4-8 hours of engineering effort. An issue is either in the current sprint or in the backlog.
+* Ein Issue ist eine Arbeitseinheit und sollte 4 bis 8 Stunden an Aufwand erfordern. Ein Issue ist entweder im Backlogoder im aktuellen Sprint.
 
-* Once a sprint has begun, Issues may not be added to the sprint, but they can be removed. This reduces context switching and that is a good thing.
+* Sobald ein Sprint begonnen hat, dürfen keine weiteren Issues zum Sprint hinzugefügt werden - es dürfen aber bestehende Issues entfernt werden. Dieses Vorgehen reduziert das Wechseln des Kontext und das ist eine gute Sache.
 
-* Any Issues in the current sprint that are not completed by the end of the sprint are reviewed during the 1 week of sprint planning.
+* Jeder Issue der im aktuellen Sprint geplant ist aber nicht beendet wird, wird in nächsten Sprintplanung noch einmal analysiert und einem Review unterzogen.
 
-* There is no working overtime. There can be no death marches. Engineers are put on a regular cadence of work and allowed sufficient time to recharge their brains. Management overhead is minimal.
+* Es gibt keine Überstunden. Es gibt keine Todesmärsche. Entwickler leisten ihre Arbeit in der regulären Arbeitszeit und bekommen die Möglichkeit den Kopf wieder freizukriegen. Die Mehrarbeit durch das Management wird minimal gehalten.
 
-That's pretty much the whole system. It can be modified to suit your purposes. But if there's one differentiator to Agile Lite I'd like to point out, it's that we are explicitly saying, "Hey, agile teams are burning out just as much as other development methodologies, maybe we need to build explicit rules in to prevent overheating the engine that is the engineering team." 
+Das ist eigentlich schon das ganze System. Es kann natürlich so angepasst werden, dass es deinen Bedürfnissen genügt. Es gibt allerdings ein Alleinstellungsmerkmal in "Agile Lite", das ich gern noch einmal betonen würde: wir sagen explizit: "Hey, agile Teams brennen genauso schnell aus wie mit anderen Entwicklungsmethoden, wir brauchen konkrete Regeln um zu verhindern, dass die Maschine - das Team - überhitzt!"
 
-Let's stop overheating our engines. There's plenty of work to do out there. A pit without bottom, in fact. But life is too short to spend all of it working, stressed, and ultimately burned out.
+Wir sollten aufhören unsere Maschinen zu überhitzen. Es gibt mehr als genug Arbeit, die auf uns wartet. Unendlich viel, wenn man es genau nimmt. Aber das Leben ist zu kurz um es nur mit Arbeit und Stress zu füllen und davon krank zu werden.
 
 ---
-If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
+Wenn du mehr Teams dabei helfen willst dieses System kennenzulernen und umzusetzen, gib diesem Repo bitte einen Stern auf Github und teile es in den sozialen Medien um die Sichtbarkeit zu erhöhen.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com

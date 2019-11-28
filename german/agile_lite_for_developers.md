@@ -14,7 +14,7 @@ Ich schlage dir eine Lösung vor. Eine Form von agiler Entwicklung, die explizit
 
 * Ein Sprint enthält Issues. Entwickler arbeiten an diesen Issues, hinterlegen auftretende Fragen und verzeichnen Aktualisierungen im Issue Tracker.
 
-* Sobald ein Sprintbegonnen hat, dürfen keine weiteren Issues zum Sprint hinzugefügt werden - es dürfen aber bestehende Issues entfernt werden. Dieses Vorgehen reduziert das Wechseln des Kontext und das ist eine gute Sache.
+* Sobald ein Sprint begonnen hat, dürfen keine weiteren Issues zum Sprint hinzugefügt werden - es dürfen aber bestehende Issues entfernt werden. Dieses Vorgehen reduziert das Wechseln des Kontext und das ist eine gute Sache.
 
 * Ein Issue ist eine Arbeitseinheit und sollte 4 bis 8 Stunden an Aufwand erfordern. Ein Issue ist entweder im Backlogoder im aktuellen Sprint.
 
@@ -27,5 +27,5 @@ Das ist eigentlich schon das ganze System. Es kann natürlich so angepasst werde
 Wir sollten aufhören unsere Maschinen zu überhitzen. Es gibt mehr als genug Arbeit, die auf uns wartet. Unendlich viel, wenn man es genau nimmt. Aber das Leben ist zu kurz um es nur mit Arbeit und Stress zu füllen und davon krank zu werden.
 
 ---
-Wenn du mehr Teams dabei helfen willst dieses System kennenzulernen und umzusetzen, gib diesem Repo bitte einen Stern auf Github und teile es in den sozialen Medien um die Sichtbarkeit zu erhöhen. 
+Wenn du mehr Teams dabei helfen willst dieses System kennenzulernen und umzusetzen, gib diesem Repo bitte einen Stern auf Github und teile es in den sozialen Medien um die Sichtbarkeit zu erhöhen.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
