@@ -1,22 +1,22 @@
-# Agile Lite: FAQ + Assertions
+# Agile Lite: FAQ + Behauptungen
 
 > The only thing consistent about Agile is that everyone is doing it wrong. @fwip
 
-## Frequently Asked Questions
+## Häufig gestellte Fragen
 
-> So you're telling me that engineers get 12 weeks off per year to surf and paint? How would that ever work in a world where 996 is becoming the norm?
+> Du willst mir also erklären, dass Entwickler 12 Wochen im Jahr bekommen um zu wandern und zu malen? Wie sollte das jemals funktionieren in einer Welt, in der 996 zur Normalität wird?
 
-I think your team should take as much time off as it's comfortable with.
+Ich finde, ein Team sollte sich so viel Auszeit nehmen, wie sie mit sich vereinbaren können.
 
-I will point out that the 40 hour work week was once considered a radical idea. Google started 80% time, we're at 75% time here, I'd like to get that down to 10% time (the Ferris method) by the end of the 2020s.
+Ich möchte darauf hinweisen, dass die 40-Stunden-Woche früher als radikale Idee abgetan wurde. Google hat angefangen auf 80%-Zeit zu setzen, wir arbeiten mit 75%-Zeit, ich würde es sogar gern bis 2030 auf 10% (die Ferris-Methode) senken.
 
-996 (9am-9pm 6 days per week) is working on the other side of that, seeking to extend the 40 hour work week to a 72 hour work week. I see this as a regression and think people should stop fetishizing long hours. It's not actually more productive.
+996 ( 9-21 Uhr, 6 Tage pro Woche) setzt auf der anderen Seite dieser Idee an, mit dem Ziel die 40-Stunden-Woche auf 72 Stunden pro Woche zu erhöhen. Ich betrachte das als Rückschritt, wir sollten aufhören lange Arbeitszeiten zu fetischisieren. Es ist nicht produktiver.
 
-It's also up to you whether the "week off" is a week for vacation or for a lighter work load or for whatever else. The answer might depend on the particular week. 
+Es liegt außerdem bei dir, ob die Woche Auszeit eine Urlaubswoche ist, oder eine Woche für leichtere Arbeiten oder für was auch immer. Die Antwort kann sich auch von Woche zu Woche unterscheiden.
 
-Maybe "light week" is easier for people to stomach than "week off". Use whichever you're more comfortable with.
+Vielleicht ist es einfacher von einer "leichten Woche" zu sprechen, statt von einer "Auszeit". Benutze was auch immer dir lieber ist.
 
-Surfing and painting are in no way required, they were merely cited as examples. In fact, I don't even surf OR paint.
+Malen und Wandern sind keine Notwendigkeiten, sondern wurden nur als Beispiel genutzt. In Wahrheit mache ich weder das eine NOCH das andere.
 
 > Are people *committing* to issues in a sprint or are they *forecasting* the issues they'll get to in a sprint?
 
@@ -40,7 +40,7 @@ Yes.
 
 > Are developers included in sprint planning?
 
-Yes. They are not banned from the meeting. They just don't need to attend, especially if they've kept the Issue Tracking System current and the team has discussed some of the items for the next sprint during the course of the previous sprint. 
+Yes. They are not banned from the meeting. They just don't need to attend, especially if they've kept the Issue Tracking System current and the team has discussed some of the items for the next sprint during the course of the previous sprint.
 
 I'm all for less meetings. Are you a rare person that enjoys meetings? As long as I don't have to attend, don't let me stop you.
 
@@ -54,9 +54,9 @@ In my experience, yes. It's usually everyone standing in a circle listening to o
 
 > Do we have to do it this way?
 
-No. Nobody is forcing you to do anything. They're guidelines, not rules. 
+No. Nobody is forcing you to do anything. They're guidelines, not rules.
 
-This is not a religion. 
+This is not a religion.
 
 It is political only in the sense that advocating a 40 hour work week was political.
 
