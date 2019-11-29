@@ -1,6 +1,6 @@
 # Agile Lite: FAQ + Behauptungen
 
-> The only thing consistent about Agile is that everyone is doing it wrong. @fwip
+> "Das einzige was sich an Agile nicht ändert ist, das es alle falsch machen." @fwip
 
 ## Häufig gestellte Fragen
 
@@ -18,71 +18,71 @@ Vielleicht ist es einfacher von einer "leichten Woche" zu sprechen, statt von ei
 
 Malen und Wandern sind keine Notwendigkeiten, sondern wurden nur als Beispiel genutzt. In Wahrheit mache ich weder das eine NOCH das andere.
 
-> Are people *committing* to issues in a sprint or are they *forecasting* the issues they'll get to in a sprint?
+> Gehen die Teammitglieder für die Issues in einem Sprint eine Verpflichtung ein, oder ist es eher eine Ankündigung, dass sich diesen Themen im Sprint widmen möchten?
 
-They are forecasting. It is not a moral failing if your estimates are off. It's all part of the process and everyone's on the same team.
+Sie machen Ankündigungen. Es ist kein moralisches Versagen, wenn deine Schätzungen daneben liegen. Das ist alles Teil des Prozesses und alle sind im gleichen Team.
 
-> Can we call them iterations instead of sprints?
+> Können wir die Zyklen "Iterationen" anstelle von "Sprints" nennen?
 
-Sure! I'm going to stick with "sprint" myself.
+Natürlich! Für mich persönlich bleibe ich bei "Sprints".
 
-> Can we do a kanban style rolling iteration where start dates and end dates vary and depend on circumstances?
+> Können wir im Kanban-Stil dynamische Iterationen verwenden, bei denen das Startdatum und das Enddatum je nach Umständen variieren?
 
-I really value the concept of the work cycle having a defined start date and stop date and being defined by a single block of tasks. Rolling iterations not synced to a specific cycle would mess that up.
+Ich lege sehr viel Wert auf das Konzept eines Arbeitszyklus mit fest definiertem Start und Ende, sowie einem festgelegten Blick an Aufgaben. Dynamische Iterationen, die nicht fest mit einem spezifischen Zyklus synchronisiert sind, würden das behindern.
 
-> Why 3 week sprints?
+> Warum 3-Wochen-Sprints?
 
-Because development work plus recovery time then fits into 13 slots per year. When the cycle is over, a new cycle begins. The "week off" allows a reset before the new sprint begins. It's about achieving a cadence and having clear and consistent intervals.
+Weil die Entwicklungsarbeit mitsamt der Auszeit dann in 13 Blöcke pro Jahr passt. Wenn ein Zyklus vorbei ist, beginnt ein neuer Zyklus. Die "Auszeit" erlaubt einen Neustart bevor der neue Sprint beginnt. Es geht darum einen Rythmus zu schaffen, mit klaren und konsistenten Intervallen.
 
-> Does this mean sprint start dates and end dates will often fall in the middle of the calendar month?
+> Bedeutet das, dass die Start- und Endzeiten eines Sprints oft in die Mitte eines Kalendermonats fallen?
 
-Yes.
+Ja.
 
-> Are developers included in sprint planning?
+> Werden Entwickler in die Sprintplanung einbezogen?
 
-Yes. They are not banned from the meeting. They just don't need to attend, especially if they've kept the Issue Tracking System current and the team has discussed some of the items for the next sprint during the course of the previous sprint.
+Ja. Sie werden von diesem Meeting nicht ausgeschlossen. Sie werden allerdings auch nicht gezwungen teilzunehmen, besonders wenn sie ihren Status im Issue Tracker-System auf dem aktuellen Stand gehalten haben und das Team bereits einige der anstehenden Aufgaben des nächsten Sprints im Verlauf des letzten Sprints besprochen hat.
 
-I'm all for less meetings. Are you a rare person that enjoys meetings? As long as I don't have to attend, don't let me stop you.
+Ich bin dafür die Anzahl an Meetings zu reduzieren. Bist du eine der wenigen Personen, die Meetings als Spaß empfindet? Dann lass dich von mir nicht aufhalten, so lange ich nicht am Meeting teilnehmen muss.
 
-> Does it really take a week to plan a sprint?
+> Braucht es wirklich eine Woche um einen Sprint zu planen?
 
-No, that's the point. It's a light week.
+Nein, das ist genau der Punkt. Es ist eine leichte Woche.
 
-> Are standups really a problem?
+> Sind Standups wirklich ein Problem?
 
-In my experience, yes. It's usually everyone standing in a circle listening to one person talk for 20 minutes. Of course, this is "doing standups wrong", but I haven't seen any teams that do them right and I'd just as soon not do them at all. It is also harder (or at least more inconvenient) to do them when you have a geographically distributed team. But if standups are your thing and you get a ton of value from them, don't let me stop you.
+Meiner Erfahrung nach: ja. Üblicherweise stehen alle in einem Kreis und hören einer Person zu, die für 20 Minuten redet. Selbstverständlich ist das "die falsche Art einen Standup durchzuführen", aber ich habe noch kein Team gesehen, das es richtig gemacht hat und dann kann ich es auch lassen. Es ist außerdem schwieriger (oder zumindest unpraktischer) wenn du ein geografisch verstreutes Team has. Aber wenn Standups dein Ding sind und du dabei eine Menge gewinnst, lass dich von mir nicht aufhalten.
 
-> Do we have to do it this way?
+> Müssen wir das so machen?
 
-No. Nobody is forcing you to do anything. They're guidelines, not rules.
+Nein. Niemand zwingt dich irgendetwas zu machen. Das sind Richtlinien, keine Regeln.
 
-This is not a religion.
+Das ist keine Religion.
 
-It is political only in the sense that advocating a 40 hour work week was political.
+Es ist nur in der Hinsicht politisch, dass die Befürwortung der 40-Stunden-Woche politisch ist.
 
-> Are you aware that what works for you might not work for others?
+> Bist du dir im Klaren darüber, dass das was für dich funktioniert vielleicht nicht für andere funktioniert?
 
-I sure am!
+Das bin ich!
 
 
-## Frequent Assertions
+## Häufige Behauptungen
 
-> You shouldn't estimate because estimates are impossible.
+> Du solltest nichts schätzen, denn Schätzungen sind unmöglich.
 
-Estimates are regarded as estimates, not as blood contracts. Therefore, if they are off, that's ok. Do the best you can and estimate in increments of 4 hours.
+Schätzungen werden als Schätzungen betrachtet, nicht als Blutverträge. Daher ist es in Ordnung, wenn sie daneben liegen. Gib dein Bestes und schätze in Schritten von 4 Stunden.
 
-> Developers cannot be trusted and must account for all their time because that's how work works.
+> Entwicklern kann nicht vertraut werden, sie müssen für ihre Zeit Rechenschaft ablegen, so funktioniert Arbeit.
 
-I really disagree but can't explain why quickly. We have a fundamental difference in world views.
+Ich bin völlig anderer Meinung, aber ich kann nicht in ein paar Sätzen erklären, warum. Wir haben fundamental verschiedene Weltanschauungen.
 
-> This isn't agile.
+> Das ist nicht agil.
 
-Sure it is, it's right there in the name.
+Natürlich ist es das, es steht doch im Namen.
 
-> This will never work.
+> Das wird niemals funktionieren.
 
-And yet it does.
+Und trotzdem funktioniert es.
 
-> You're doing agile wrong.
+> Du benutzt Agile falsch.
 
-Unfortunately the problem with agile is that it cannot be done correctly.
+Unglücklicherweise ist das Problem mit Agile, dass es nicht korrekt gemacht werden kann.
